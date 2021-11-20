@@ -28,7 +28,6 @@ function groupTitles(titles){
 
 let titles = ["duel", "dule", "speed", "spede", "duel", "cars", "cheese", "chesee", "cehese", "toes", "tose"];
 let groupedTitlesList = groupTitles(titles);
-// console.log(groupedTitlesList);
 let query = "tose";
 
 for(let group of groupedTitlesList){
