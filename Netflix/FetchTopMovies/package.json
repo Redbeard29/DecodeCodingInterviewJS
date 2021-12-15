@@ -1,0 +1,7 @@
+{
+    "name": "fetchtopmovies",
+    "version": "1.0.0",
+    "description": "linked list algorithm problem",
+    "main": "index.js",
+    "type": "module"
+}
