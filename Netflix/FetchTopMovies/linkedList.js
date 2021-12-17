@@ -51,4 +51,4 @@ class SinglyLinkedList {
 
 }
 
-export { SinglyLinkedList };
+export { SinglyLinkedList, Node };
