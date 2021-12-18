@@ -1,0 +1,7 @@
+{
+    "name": "findmedianage",
+    "version": "1.0.0",
+    "description": "heap based algorithm to find median age",
+    "main": "index.js",
+    "type": "module"
+}

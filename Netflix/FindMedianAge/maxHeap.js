@@ -71,10 +71,4 @@ class MaxHeap{
 
 }
 
-let heap = new MaxHeap();
-heap.insert(12);
-heap.insert(10);
-heap.insert(-10);
-heap.insert(100);
-
-console.log(heap.getMax());
+export { MaxHeap };
